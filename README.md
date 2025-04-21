@@ -1,2 +1,2 @@
-# youtrade-lis-tm-bot-manual
+# Руководство для использования роли [FULL] - LIS>TM bot
 Краткое руководство по использованию youtrade.cs бота lis-tm (совместно с Mr.Twister)
