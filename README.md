@@ -443,14 +443,10 @@
 Для начала автопокупок добавьте API-ключ с помощью команды:
 
 ```text
-/add_token_buy <API_KEY> <TRADE_URL>, где
-<API_KEY> — ваш ключ для доступа.
+/add_token_buy <TRADE_URL> <API_KEY>, где
 <TRADE_URL> — ссылка для торговли на платформе.
+<API_KEY> — ваш ключ для доступа.
 ```
-
-<div style="text-align: center;">
-  <img src="./images/13.png" alt="Пример добавления ключа">
-</div>
 
 Данные для заполнения API_KEY и TRADE_URL можно получить, перейдя по данным ссылкам:
 > Lis-Skins: https://lis-skins.ru/profile/api/
